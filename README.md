@@ -23,3 +23,10 @@ For details about my implementation, please visit this [link](./AIND-Isolation/R
 In this introductory project, we use **constraint propagation** to find solutions to Sudoku puzzles, repeatedly applying game rules (constraints) until the Sudoku puzzle stops changing.
 
 Additional details can be found [here](./AIND-Sudoku-solution/README.md).
+
+## Authors :
+[MohamedBakrAli](https://github.com/MohamedBakrAli)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
