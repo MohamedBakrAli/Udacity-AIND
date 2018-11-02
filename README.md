@@ -28,7 +28,7 @@ Additional details can be found [here](./AIND-Sudoku-solution/README.md).
 # Sign Language Recognition
 
 Here, we use **HMMs (Hidden Markov Models)** to recognize gestures in American Sign Language, from individual words to complete sentences. We train our system on a dataset of videos that have been pre-processed and annotated, and test on novel sequences.
-Additional details can be foun [here](./AIND-Recognizer/README.md).
+Additional details can be foun [here](./AIND-%20Recognizer/README.md).
 
 
 ## Authors :
